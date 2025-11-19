@@ -1,0 +1,35 @@
+{
+  "acknowledged": true,
+  "insertedIds": {
+    "0": {
+      "$oid": "691e10ff336ac1eec7e2c55b"
+    },
+    "1": {
+      "$oid": "691e10ff336ac1eec7e2c55c"
+    },
+    "2": {
+      "$oid": "691e10ff336ac1eec7e2c55d"
+    },
+    "3": {
+      "$oid": "691e10ff336ac1eec7e2c55e"
+    },
+    "4": {
+      "$oid": "691e10ff336ac1eec7e2c55f"
+    },
+    "5": {
+      "$oid": "691e10ff336ac1eec7e2c560"
+    },
+    "6": {
+      "$oid": "691e10ff336ac1eec7e2c561"
+    },
+    "7": {
+      "$oid": "691e10ff336ac1eec7e2c562"
+    },
+    "8": {
+      "$oid": "691e10ff336ac1eec7e2c563"
+    },
+    "9": {
+      "$oid": "691e10ff336ac1eec7e2c564"
+    }
+  }
+}
